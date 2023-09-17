@@ -10,9 +10,7 @@ public class Main {
         addresses.addBuddy(sl);
         addresses.addBuddy(mc);
 
-        addresses.findBuddy(ak);
         addresses.removeBuddy(mc);
-        addresses.findBuddy(mc);
 
 
         System.out.println("AddressBook");

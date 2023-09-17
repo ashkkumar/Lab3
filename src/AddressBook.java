@@ -16,14 +16,4 @@ public class AddressBook {
         infoBook.remove(buddy);
     }
 
-    public void findBuddy(BuddyInfo buddy){
-        if (infoBook.contains(buddy)){
-            System.out.println("Buddy is in address book");
-
-        } else {
-            System.out.println("Buddy is not in address book");
-        }
-
-    }
-
 }
