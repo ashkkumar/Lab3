@@ -11,6 +11,7 @@ public class Main {
         addresses.addBuddy(mc);
 
         addresses.removeBuddy(mc);
+        addresses.removeBuddy(sl);
 
 
         System.out.println("AddressBook");
