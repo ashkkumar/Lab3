@@ -8,6 +8,7 @@ public class BuddyInfo {
 
         BuddyInfo homer = new BuddyInfo("Homer", 555777888);
         System.out.println("Hello " + homer.getName());
+        System.out.println("Testing");
     }
 
     public BuddyInfo(String name, int phoneNumber){
